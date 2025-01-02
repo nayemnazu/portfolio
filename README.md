@@ -1,2 +1,2 @@
 # portfolio
-Live Preview: nayemnazu.github.io/portfolio/
+Live Preview: https://nayemnazu.github.io/portfolio/
